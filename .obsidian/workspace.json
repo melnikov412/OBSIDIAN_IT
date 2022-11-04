@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проект 3DDD Angular.md",
+                "file": "🪗 Angular.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проект 3DDD Angular.md",
+                "file": "🪗 Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проект 3DDD Angular.md",
+                "file": "🪗 Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проект 3DDD Angular.md"
+                "file": "🪗 Angular.md"
               }
             }
           }
@@ -138,9 +138,10 @@
   },
   "active": "4c6483be1c80d1ad",
   "lastOpenFiles": [
+    "Эмоджи.md",
     "🪗 Angular.md",
-    "cooke для Питера.md",
     "Проект 3DDD Angular.md",
+    "cooke для Питера.md",
     "Генерация базового URL.md",
     "NVM.md",
     "🥁 Nest JS.md"
